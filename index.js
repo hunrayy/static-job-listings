@@ -45,3 +45,6 @@ const removeItem=()=>{
     jobs();
     arr.length=0;
 })
+function hennlo(){
+  console.log("jsjsj")
+}
